@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita Ranenko
 ======================================================================================================================================
 
-22y.o. Ambitious Backend-Developer
+24y.o. Ambitious Backend-Developer
 ----------------------------------
 
-Working with .NET Core for 3+ years Really like to create new non-trivial features, optimize bottlenecks, work with databases and communicate with other inspired developers:)
+Working with .NET Core for 5+ years Really like to create new non-trivial features, optimize bottlenecks, work with databases and communicate with other inspired developers:)
 
 * 🌍  I'm based in South Asia (traveler)
 * ✉️  You can contact me at [nranenko@bk.ru](mailto:nranenko@bk.ru)
